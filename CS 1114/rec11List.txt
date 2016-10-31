@@ -1,0 +1,8 @@
+apple
+banana
+cat
+dog
+eye
+face
+good
+hard
